@@ -214,3 +214,18 @@ L,S=robust_pca.fit(max_iter=3000,print_iter=250)
 ![image-20220823201309675](README.assets/image-20220823201309675.png)
 
 成功滤去了噪音
+
+
+## References
+
++ Yang, Jian, et al. "Two-dimensional PCA: a new approach to appearance-
+based face representation and recognition." IEEE transactions on pattern
+analysis and machine intelligence 26.1 (2004): 131-137.
++ Li, Xuelong, Yanwei Pang, and Yuan Yuan. "L1-norm-based 2DPCA." IEEE
+Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics) 40.4
+(2010): 1170-1175.
++ Kwak, Nojun. "Principal component analysis based on L1-norm maximization."
+IEEE transactions on pattern analysis and machine intelligence 30.9 (2008):
+1672-1680.
++ Candès, Emmanuel J., et al. "Robust principal component analysis?." Journal
+of the ACM (JACM) 58.3 (2011): 1-37.
